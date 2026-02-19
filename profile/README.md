@@ -8,7 +8,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/pangeo-fish/pangeo-fish)](https://github.com/pangeo-fish/pangeo-fish/commits/main)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pangeo-fish/pangeo-fish/HEAD)
 
-# Pangeo-Fish 🐟
+#  ![Pangeo-Fish logo](../pangeo-fish-logo_small.png) Pangeo-Fish
 
 **Pangeo-Fish** is an open, community-driven project designed to leverage the power of the Pangeo ecosystem specifically for fish biologging data analysis and related oceanographic research. The project facilitates scalable, reproducible, and collaborative research by integrating biologging data with environmental datasets using cloud-native technologies.
 
@@ -71,5 +71,5 @@ Pangeo-Fish is distributed under the [BSD 3-Clause License](https://github.com/p
 
 - T Odaka, JM Delouis and J Magin are supported by the CNES Appel, a projet R&T R-S23/DU-0002-025-01.
 - T Odaka, JM Delouis and M Woillez are supported by the TAOS project funded by the IFREMER via the AMII OCEAN 2100 programme.
-- Q Mazouni, M Woillez, A Fouilloux and T Odaka are supported by Global Fish Tracking System (GFTS), a Destination Earth use case procured and funded by ESA (SA Contract No. 4000140320/23/I-NS, DESTINATION EARTH USE CASES - DESP USE CASES - ROUND (YEAR 2023))
-- M Woillez and T Odaka are supported by Digital Twin of the Ocean - Animal Tracking (DTO Track), a European project that aims to create a digital twin of the North Sea using animal tracking data and funded by the Sustainable Blue Economy Partnership (ANR-24-SBEP-0001)
+- E Cap, Q Mazouni, M Woillez, A Fouilloux and T Odaka are supported by Global Fish Tracking System (GFTS), a Destination Earth use case procured and funded by ESA (SA Contract No. 4000140320/23/I-NS, DESTINATION EARTH USE CASES - DESP USE CASES - ROUND (YEAR 2023))
+- E Cap, M Woillez and T Odaka are supported by Digital Twin of the Ocean - Animal Tracking (DTO Track), a European project that aims to create a digital twin of the North Sea using animal tracking data and funded by the Sustainable Blue Economy Partnership (ANR-24-SBEP-0001)
